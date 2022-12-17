@@ -1,0 +1,3 @@
+Для выбора изображения использовался класс QFileSystemModel.
+Для отображения использовался treeView. Для вывод информации об изображении
+использовался класс QImage (методы depth(), width(), height(), dotsPerMeterX(), dotsPerMeterY()).
